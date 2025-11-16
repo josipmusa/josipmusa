@@ -22,7 +22,7 @@
 
 💬 Ask me about<br>
 - Spring Boot, Java backend design, auto-configuration, and microservices<br>
-- ML fundamentals, transformers, text generation, PyTorch<br>
+- ML fundamentals, transformers, PyTorch<br>
 - System design, performance tuning, and debugging distributed systems<br>
 
 
