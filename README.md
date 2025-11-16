@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 Hi there!<br>
 
 🚧 I'm currently working on<br>
